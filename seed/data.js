@@ -5,7 +5,7 @@ import pokemon from "./pokemon.json" assert { type: "json" };
 
 const seedData = async () => {
   // reset database
-  db.dropDatabase();
+  // db.dropDatabase();
 
   // insert pokemon into database
   await Pokemon.insertMany(pokemon);
