@@ -12,10 +12,20 @@ Getting Started
 Installation
 ========================
 npm install npm@latest -g
+
+
 git clone https://github.com/arthur-16/personal-api-project.git
+
+
 npm install 
+
+
 npm run db:seed
+
+
 npm run start
+
+
 
 API Reference
 =====================
